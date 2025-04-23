@@ -52,16 +52,6 @@ Execute o script passando o domínio como argumento:
 | 3    | ```IP``` | test.exemplo.com       |
 
 
-## 🙌 Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-- Faça um fork do projeto.
-- Crie uma nova branch (git checkout -b feature/nova-feature).
-- Commit suas mudanças (git commit -m 'Adiciona nova feature').
-- Push para a branch (git push origin feature/nova-feature).
-- Abra um Pull Request.
-```Nota: Este projeto é apenas para fins educacionais. Use com responsabilidade.```
 
-## 📝 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 Feito com ❤️ por ```apolinario0x21```
